@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on changing the theme for [Sakoly](http://metronic.elitesacco.com/)
+- 🔭 I’m currently working on changing the theme for [Sakoly](http://sakoly.com/)
 - 🌱 I’m currently learning DevOps at [Moringa School](https://moringaschool.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
