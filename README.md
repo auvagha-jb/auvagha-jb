@@ -1,6 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at CMU Africa
-- 🌱 I’m currently learning Python for Data Analysis
+- 🔭 I’m currently studying at Carnegie Mellon University Africa
+- 🌱 I’m currently learning 
+    - Python for Data Analysis
+    - Data, Inference and Applied Machine Learning
+    - Strategic use of Information in Enterprises
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
 <!--
