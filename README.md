@@ -1,10 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently studying at Carnegie Mellon University Africa
 - 🌱 I’m currently taking courses in: 
-    - Python for Data Analysis
-    - Data, Inference and Applied Machine Learning
-    - Strategic use of Information in Enterprises
-    - DevOps with focus on Azure and GitHub Actions
+    - Data Analytics
+    - Data Structures and Algorithms
+    - Design Patterns for Smartphone Development
+    - ICT Entrepreneurship Seminar
+    - User Experience and User Interface Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
 <!--
