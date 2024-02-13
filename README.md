@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing a Masters in IT (Software Engineering and Applied ML concentration) at Carnegie Mellon University
 - 🌱 I’m currently taking courses in: 
-    - Data Analytics
     - Data Structures and Algorithms
     - Design Patterns for Smartphone Development
     - ICT Entrepreneurship Seminar
