@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing a Masters in IT (Software Engineering concentration) at Carnegie Mellon University
 - 🌱 I’m currently taking courses in: 
-    - Data Structures and Algorithms
-    - Design Patterns for Smartphone Development
-    - ICT Entrepreneurship Seminar
-    - User Experience and User Interface Engineering
+    - Foundations of Software Engineering
+    - Information Security
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
 <!--
