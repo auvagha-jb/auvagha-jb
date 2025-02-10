@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing a Masters in IT (Software Engineering concentration) at Carnegie Mellon University
 - 🌱 I’m currently taking courses in: 
-    - Foundations of Software Engineering
-    - Information Security
+    - [Docker Certified Associate (DCA)](https://www.coursera.org/specializations/docker-certified-associate-dca-course)
+    - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
 <!--
