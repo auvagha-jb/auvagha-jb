@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently pursuing a Masters in IT (Software Engineering concentration) at Carnegie Mellon University
-- 🌱 I’m currently taking courses in: 
-    - [Docker](https://www.coursera.org/learn/docker-for-the-absolute-beginner)
-    - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) 
+- 🌱 I’m currently taking courses in:
+    - [Engineering Data Intensive Scalable Systems](https://mse.s3d.cmu.edu/0_documents/syllabi/sp2021/17647-engineering-data-intensive-scalable-systems.pdf) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jerry-auvagha/)
 
 <!--
