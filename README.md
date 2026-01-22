@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 Just graduated with my Masters in IT (Software Engineering concentration) at Carnegie Mellon University!
+- 🔭 Masters in IT (Software Engineering concentration) from Carnegie Mellon University in the bag!
+- 👷🏾‍♂️ Currently building at [Pebla](pebla.io)
 <!--
 - 🌱 I’m currently taking courses in:
     - [Engineering Data Intensive Scalable Systems](https://mse.s3d.cmu.edu/0_documents/syllabi/sp2021/17647-engineering-data-intensive-scalable-systems.pdf)
